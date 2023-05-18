@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Stefan",
+      "lastName": "Reljic",
+      "email": "stefan.reljic@gmail.com",
+      "dob": "2000-05-01T22:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Google",
+      "id": 1
+    },
+    {
+      "firstName": "Pera",
+      "lastName": "Peric",
+      "email": "pera@gmail.com",
+      "dob": "2023-04-30T22:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "Bosh",
+      "id": 2
+    }
+  ]
+}
